@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "trackit-frontend": "file:.."
+  }
+}
